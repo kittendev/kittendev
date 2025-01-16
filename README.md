@@ -15,8 +15,9 @@
     <div>
       <h2 align="center"> 🐱 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐱 </h2>
       <div align="center">
-        <img src="https://gifdb.com/images/high/adorable-genshin-impact-raiden-smile-t8qmewsdvv9tki9b.webp" align="right" hight="20%" width="20%">
+        <img src="https://gifdb.com/images/high/adorable-genshin-impact-raiden-smile-t8qmewsdvv9tki9b.webp" align="right" hight="250vh" width="250vw">
       </div>
+      <br>
       <ul>
         <li>Hello, I'm kittendev a Machine Learning enthusiast.</li>
         <li>Also Known As Dafa</li>
@@ -31,7 +32,7 @@
     <div>
       <h2 align="center">~ 💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻 ~</h2>
       <div align="center">
-        <img src="https://gifdb.com/images/high/fierce-raiden-shogun-piercing-gaze-ziqoa6h6xzk7f4ql.webp" align="right" width="45%" height="45%">
+        <img src="https://gifdb.com/images/high/fierce-raiden-shogun-piercing-gaze-ziqoa6h6xzk7f4ql.webp" align="right" width="450vw" height="300vh">
       </div>
       <br>
       <br>
@@ -55,7 +56,7 @@
     <div>
       <h2 align="center">☎️ ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ ☎️</h2>
       <div align="center">
-        <img src="https://gifdb.com/images/high/relaxing-evening-raiden-shogun-full-moon-krnovj19kquji0yx.webp" align="right" width="30%" height="30%">
+        <img src="https://gifdb.com/images/high/relaxing-evening-raiden-shogun-full-moon-krnovj19kquji0yx.webp" align="right" width="400vw" height="240vh">
       </div>
       <br>
       <br>
