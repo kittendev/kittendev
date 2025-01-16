@@ -51,7 +51,6 @@
         I have a solid grasp of using Jupyter Notebook and Google Colab for various tasks. Additionally, I am skilled at building websites with React and Express.js. As I continue to learn and grow, I am committed to expanding my knowledge and honing my skills further.
       </p>
       <br>
-      <br>
     </div>
     <div>
       <h2 align="center">☎️ ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ ☎️</h2>
