@@ -31,7 +31,7 @@
     <div>
       <h2 align="center">~ 💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻 ~</h2>
       <div align="center">
-        <img src="https://gifdb.com/images/high/fierce-raiden-shogun-piercing-gaze-ziqoa6h6xzk7f4ql.webp" align="right" width="40%" height="40%">
+        <img src="https://gifdb.com/images/high/fierce-raiden-shogun-piercing-gaze-ziqoa6h6xzk7f4ql.webp" align="right" width="45%" height="45%">
       </div>
       <br>
       <br>
