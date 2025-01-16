@@ -29,7 +29,59 @@
     </div>
     <br>
     <div>
+      <h2 align="center">~ 💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻 ~</h2>
+      <div align="center">
+        <img src="https://gifdb.com/images/high/fierce-raiden-shogun-piercing-gaze-ziqoa6h6xzk7f4ql.webp" align="right" width="40%" height="40%">
+      </div>
+      <br>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <br>
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+        <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain">
+        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+        <br>
+        <br>
+        I have a solid grasp of using Jupyter Notebook and Google Colab for various tasks. Additionally, I am skilled at building websites with React and Express.js. As I continue to learn and grow, I am committed to expanding my knowledge and honing my skills further.
+      </p>
+      <br>
+      <br>
+    </div>
+    <div>
+      <h2 align="center">☎️ ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ ☎️</h2>
+      <div align="center">
+        <img src="https://gifdb.com/images/high/relaxing-evening-raiden-shogun-full-moon-krnovj19kquji0yx.webp" align="right" width="30%" height="30%">
+      </div>
+      <br>
+      <br>
+      <br>
+      <p align="center">
+        Feel free to ask me about anything :3 <br>
+        Whether it's for hanging out, chatting or playing games together.
+      </p>
+      <p align="center">
+        <a href="mailto:dafa.alfarizki.tif422@polban.ac.id">
+          <img src="https://img.shields.io/badge/Gmail%20-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+        <a href="https://discord.com/channels/@me" target="_blank">
+          <img src="https://img.shields.io/badge/ssparkle%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+        </a>
+      </p>
+      <br>
+      <br>
+    </div>
+    <div>
       <h2 align="center">💜 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💜</h2>
+      <div align="center">
+        <img src="https://gifdb.com/images/thumb/raiden-shogun-cute-turn-around-pose-cewphtvamemrc6kt.gif">
+      </div>
+      <hr>
     </div>
   </center>
 </body>
