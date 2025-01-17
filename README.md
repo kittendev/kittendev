@@ -15,7 +15,7 @@
     <div>
       <h2 align="center"> 🐱 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🐱 </h2>
       <div align="center">
-        <img src="https://gifdb.com/images/high/adorable-genshin-impact-raiden-smile-t8qmewsdvv9tki9b.webp" align="right" hight="250vh" width="250vw">
+        <img src="https://gifdb.com/images/high/adorable-genshin-impact-raiden-smile-t8qmewsdvv9tki9b.webp" align="right" hight="260vh" width="260vw">
       </div>
       <br>
       <ul>
@@ -32,6 +32,7 @@
     <div>
       <h2 align="center">~ 💻 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴 💻 ~</h2>
       <div align="center">
+        <br>
         <img src="https://gifdb.com/images/high/fierce-raiden-shogun-piercing-gaze-ziqoa6h6xzk7f4ql.webp" align="right" width="450vw" height="300vh">
       </div>
       <br>
