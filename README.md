@@ -48,6 +48,7 @@
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
         <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain">
         <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Colab">
         <br>
         <br>
         I have a solid grasp of using Jupyter Notebook and Google Colab for various tasks. Additionally, I am skilled at building websites with React and Express.js. As I continue to learn and grow, I am committed to expanding my knowledge and honing my skills further.
